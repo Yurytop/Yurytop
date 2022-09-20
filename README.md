@@ -14,12 +14,12 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000000?style=for-the-badge&logo=Sequelize)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express)
-
-
 ![Eslint](https://img.shields.io/badge/-Eslint-000000?style=for-the-badge&logo=Eslint&logoColor=blue)
 ![Babel](https://img.shields.io/badge/-Babel-000000?style=for-the-badge&logo=Babel)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=Webpack)
 ![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=JIRA)
 
 
-Follow Me
+### Follow Me
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-696969?style=for-the-badge&logo=TELEGRAM)](https://t.me/@Yakshin00)
+[![VK](https://img.shields.io/badge/-VK-696969?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/flyturbo)
