@@ -23,3 +23,4 @@
 ### Follow Me
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-696969?style=for-the-badge&logo=TELEGRAM)](https://t.me/@Yakshin00)
 [![VK](https://img.shields.io/badge/-VK-696969?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/flyturbo)
+![alt text](https://www.codewars.com/users/Yurytop/badges/large)
